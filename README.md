@@ -1,6 +1,8 @@
 # This is a proper port of gm_bigcity from garrysmod
 Why do I say a proper port? because I remade the entire map by hand using proper source2 techinques for mapping instead of just porting the source1 brush geometry.
 
+![image](https://github.com/Seevvveen/bigcitysource2/assets/123136838/d2890066-f824-46fc-a222-f208e43de21c)
+
 The zip file only contains the .vmap file, everything else should come already installed with sbox as dev materials or downloaded from asset party on launch ( I think its only the bench model used once )
 
 ## Things to note
@@ -13,6 +15,8 @@ The zip file only contains the .vmap file, everything else should come already i
 - Used instancing for many of the repeated componets
 - the bridge at the sewer plant is missing its supports since it was a prop
 - All geometry is aligned to grid, however i have no idea where the grid visably appears so... goodluck
+
+
 
 ### This is not a final map, this is just a foundation for those intrested in creating their own versions of bigcity or other versions of bigcity
 You are free to use this map however you want for your own mapping purposes, All I ask if you do to mention me (Seven#7222)
